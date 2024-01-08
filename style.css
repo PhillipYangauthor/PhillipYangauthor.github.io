@@ -5,7 +5,7 @@ h2{
     text-family:fantasy;
   color:darkblue;
 }
-p(
+p{
 color:Dark blue;
-  font-size:24px;
-  )
+  font-size:24;
+}
